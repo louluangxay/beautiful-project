@@ -27,4 +27,4 @@ We can do it with a line of markdown that looks like this (without the slashes -
 ```
 \{\% include jupyter-basic_bar.html \%\}
 ```
-{% include jupyter-basic_bar.html %}
+{% include rshiny-iframe.html %}
