@@ -9,16 +9,16 @@
 
 # If you are building a GitHub project page then use these settings:
 # Replace with your project's URL!
-url: "http://kerchner.github.io/beautiful-project"
-baseurl: "/beautiful-project"
+url: "http://louluangxay.github.io/lendingclub"
+baseurl: "/lendingclub"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Lending Club
+title: Lending Club Analysis
 
 # Short description of your site
-description: Here's the description of my porject
+description: Here's the description of my project
 
 # --- Navigation bar options --- #
 
