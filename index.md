@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Lending Club Analysis
 subtitle: Exploring Peer to Peer lending
 bigimg: /img/path.jpg
