@@ -4,13 +4,12 @@ title: Lending Club Analysis
 subtitle: Exploring Peer to Peer lending
 bigimg: /img/borrowing.jpg
 ---
-## Here is where we can insert an image:
 
-![Borrowing Money logo](/img/borrowing.jpg)
+![GWU Data Science logo](/img/gwdsp.png)
 
-## How about a link?
+## Lending Club
 
-And of course some text, and maybe [a link to LendingClub website](https://www.lendingclub.com/)
+Since 2007, we’ve been bringing borrowers and investors together, transforming the way people access credit. Over the last 10 years, we've helped millions of people take control of their debt, grow their small businesses, and invest for the future. [a link to LendingClub website](https://www.lendingclub.com/)
 
 ## Or some code?
 
