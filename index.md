@@ -2,11 +2,11 @@
 layout: post
 title: Lending Club Analysis
 subtitle: Exploring Peer to Peer lending
-bigimg: /img/path.jpg
+bigimg: /img/borrowing.jpg
 ---
 ## Here is where we can insert an image:
 
-![Borrowing Money logo](/img/borrowing money.jpg)
+![Borrowing Money logo](/img/borrowing.jpg)
 
 ## How about a link?
 
