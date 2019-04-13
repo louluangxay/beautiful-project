@@ -2,11 +2,11 @@
 layout: post
 title: Lending Club Analysis
 subtitle: Exploring Peer to Peer lending
-bigimg: /img/borrowing money.jpg
+bigimg: /img/path.jpg
 ---
 ## Here is where we can insert an image:
 
-![GW Data Science logo](/img/gwdsp.png)
+![Borrowing Money logo](/img/borrowing money.png)
 
 ## How about a link?
 
