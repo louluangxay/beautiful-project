@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 ---
 ## Here is where we can insert an image:
 
-![Borrowing Money logo](/img/borrowing money.png)
+![Borrowing Money logo](/img/borrowing money.jpg)
 
 ## How about a link?
 
