@@ -2,7 +2,7 @@
 layout: post
 title: Lending Club Analysis
 subtitle: Exploring Peer to Peer lending
-bigimg: /img/path.jpg
+bigimg: /img/borrowing money.jpg
 ---
 ## Here is where we can insert an image:
 
