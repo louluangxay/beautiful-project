@@ -10,7 +10,7 @@ bigimg: /img/borrowing money.jpg
 
 ## How about a link?
 
-And of course some text, and maybe [a link to LendingClub website](https://www.lendingclub.com/info/statistics.action)
+And of course some text, and maybe [a link to LendingClub website](https://www.lendingclub.com/)
 
 ## Or some code?
 
