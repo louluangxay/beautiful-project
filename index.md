@@ -21,8 +21,14 @@ The entire process is online, using technology to lower the cost of credit and p
 
 ![LendingClub](/img/lendingclub.png)
 
-# example
+# Breakdown of loan Grades and Sub loan grades
+This is important because Lending Club assigns grades to all the loans as an indicator of risk.  The grade determine the borrower interest rate and the investor potential return rate assuming the loan has been replay.  Grade A is prime (highly loan will be pay back) and Grade G is subprime ( most likely to default)
 
-this is a first graph
+As the chart show, interest rates increase as the grade and sub-grades increases.
+
+Tableau
 
 {% include rshiny-iframe.html %}
+
+## Where are the loan?
+This is a map of the US with the total loan amount.  According to this map, most of the loan are concentrated in California, Texas, New York 
