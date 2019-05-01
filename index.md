@@ -9,14 +9,14 @@ bigimg: /img/borrowing.jpg
 
 ## Lending Club
 
-Since 2007, we’ve been bringing borrowers and investors together, transforming the way people access credit. Over the last 10 years, we've helped millions of people take control of their debt, grow their small businesses, and invest for the future. [a link to LendingClub website](https://www.lendingclub.com/)
+Since 2007, Lending Club has been helping millions of people take control of their debt, grow their small businesses, and invest for the future. Lending Club is a peer to peer lending company in which investors provide funds for potential borrowers and investors earn a profit depending on the risk they take.  [a link to LendingClub website](https://www.lendingclub.com/)
 
-## Or some code?
+## How Lending Club work?
 
 Some code might go here:
 
 ```
-x <- 5 # Here's some R code
+![LendingClub](/img/gwdsp.png)
 ```
 
 What if I just paste the HTML for a plotly plot?
