@@ -13,16 +13,8 @@ Since 2007, Lending Club has been helping millions of people take control of the
 
 ## How Lending Club work?
 
-Some code might go here:
-
 ![LendingClub](/img/lendingclub.png)
 
-What if I just paste the HTML for a plotly plot?
-
-We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
-```
-
-```
 # example
 
 this is a first graph
