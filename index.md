@@ -15,9 +15,7 @@ Since 2007, Lending Club has been helping millions of people take control of the
 
 Some code might go here:
 
-```
-![LendingClub](/img/gwdsp.png)
-```
+![LendingClub](/img/lendingclub.png)
 
 What if I just paste the HTML for a plotly plot?
 
