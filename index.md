@@ -24,5 +24,10 @@ The entire process is online, using technology to lower the cost of credit and p
 ## Analysis
 {% include LendingMarkdown.html %}
 
+## More Analysis using Tableau
+Please click on this link below to see more analysis from me using Tableau.
+
+[a link to TableauDashboard](https://us-east-1.online.tableau.com/#/site/louluangxay/views/lendingclub2018/Dashboard1?:iid=1)
+
 ## Conclusion
 Lending club has a bright future ahead of itself. Based on my analysis, we see there is a high demand for peer-to-peer lending. Though I only limited the dataset from 2014 to 2018, each year Lending Club has continued to increases their market share via loan growth.  My analysis also shows that there is a wide spectrum of borrowers that are attracted to these type of loans.  Though most of the borrowers are concentrated in the mostly coasted city, we do have participation in all 50 years.  I hope Lending Club will be with us for a long time.
