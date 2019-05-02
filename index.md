@@ -26,9 +26,9 @@ This is important because Lending Club assigns grades to all the loans as an ind
 
 As the chart show, interest rates increase as the grade and sub-grades increases.
 
-Tableau
 
-{% include rshiny-iframe.html %}
+# RMarkdown
+{% include LendingMarkdown.html %}
 
 ## Where are the loan?
 This is a map of the US with the total loan amount.  According to this map, most of the loan are concentrated in California, Texas, New York 
