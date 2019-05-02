@@ -21,14 +21,8 @@ The entire process is online, using technology to lower the cost of credit and p
 
 ![LendingClub](/img/lendingclub.png)
 
-# Breakdown of loan Grades and Sub loan grades
-This is important because Lending Club assigns grades to all the loans as an indicator of risk.  The grade determine the borrower interest rate and the investor potential return rate assuming the loan has been replay.  Grade A is prime (highly loan will be pay back) and Grade G is subprime ( most likely to default)
-
-As the chart show, interest rates increase as the grade and sub-grades increases.
-
-
-# RMarkdown
+## Analysis
 {% include LendingMarkdown.html %}
 
-## Where are the loan?
-This is a map of the US with the total loan amount.  According to this map, most of the loan are concentrated in California, Texas, New York 
+## Conclusion
+Lending club has a bright future ahead of itself. Based on my analysis, we see there is a high demand for peer-to-peer lending. Though I only limited the dataset from 2014 to 2018, each year Lending Club has continued to increases their market share via loan growth.  My analysis also shows that there is a wide spectrum of borrowers that are attracted to these type of loans.  Though most of the borrowers are concentrated in the mostly coasted city, we do have participation in all 50 years.  I hope Lending Club will be with us for a long time.
